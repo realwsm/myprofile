@@ -1,0 +1,4 @@
+* TODO GetRecordByBuffer调试完成
+** TODO 入口startPosition
+** TODO 出口endPosition   
+* TODO LogParse和readlog架构文档
