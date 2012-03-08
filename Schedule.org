@@ -1,4 +1,12 @@
-* TODO GetRecordByBuffer调试完成
-** TODO 入口startPosition
-** TODO 出口endPosition   
-* TODO LogParse和readlog架构文档
+* DONE GetRecordByBuffer调试完成
+  CLOSED: [2012-03-09 周五 00:14]
+** DONE 入口startPosition
+   CLOSED: [2012-03-09 周五 00:14]
+** DONE 出口endPosition   
+   CLOSED: [2012-03-09 周五 00:14]
+* DONE LogParse和readlog架构文档
+  CLOSED: [2012-03-09 周五 00:14]
+* TODO unitest
+  SCHEDULED: <2012-03-09 周五>
+* TODO 模拟电路任务书
+  SCHEDULED: <2012-03-10 周六> DEADLINE: <2012-03-11 周日>
