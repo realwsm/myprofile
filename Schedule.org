@@ -1,12 +1,5 @@
-* DONE GetRecordByBufferµ÷ÊÔÍê³É
-  CLOSED: [2012-03-09 ÖÜÎå 00:14]
-** DONE Èë¿ÚstartPosition
-   CLOSED: [2012-03-09 ÖÜÎå 00:14]
-** DONE ³ö¿ÚendPosition   
-   CLOSED: [2012-03-09 ÖÜÎå 00:14]
-* DONE LogParseºÍreadlog¼Ü¹¹ÎÄµµ
-  CLOSED: [2012-03-09 ÖÜÎå 00:14]
 * TODO unitest
-  SCHEDULED: <2012-03-09 ÖÜÎå>
-* TODO Ä£ÄâµçÂ·ÈÎÎñÊé
-  SCHEDULED: <2012-03-10 ÖÜÁù> DEADLINE: <2012-03-11 ÖÜÈÕ>
+  SCHEDULED: <2012-03-09 Fri>
+* TODO æ¨¡æ‹Ÿç”µè·¯ä»»åŠ¡ä¹¦    
+  SCHEDULED: <2012-03-10 Sat> DEADLINE: <2012-03-11 Sun>
+
