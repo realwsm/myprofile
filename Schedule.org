@@ -2,4 +2,5 @@
   SCHEDULED: <2012-03-09 Fri>
 * TODO 模拟电路任务书    
   SCHEDULED: <2012-03-10 Sat> DEADLINE: <2012-03-11 Sun>
-
+* TODO 架构doc(各个函数的说明文档)
+  SCHEDULED: <2012-03-12 Mon 11:00> DEADLINE: <2012-03-13 Tue 16:00>
