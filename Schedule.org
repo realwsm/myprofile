@@ -1,6 +1,14 @@
+* DONE unitest
+  SCHEDULED: <2012-03-09 Fri> CLOSED: [2012-03-21 Wed 20:11]
+* DONE 模拟电路任务书    
+  SCHEDULED: <2012-03-10 Sat> DEADLINE: <2012-03-11 Sun> CLOSED: [2012-03-21 Wed 20:11]
+* DONE 架构doc(各个函数的说明文档)
+  SCHEDULED: <2012-03-12 Mon 11:00> DEADLINE: <2012-03-13 Tue 16:00> CLOSED: [2012-03-21 Wed 20:11]
 * TODO unitest
-  SCHEDULED: <2012-03-09 Fri>
-* TODO 模拟电路任务书    
-  SCHEDULED: <2012-03-10 Sat> DEADLINE: <2012-03-11 Sun>
-* TODO 架构doc(各个函数的说明文档)
-  SCHEDULED: <2012-03-12 Mon 11:00> DEADLINE: <2012-03-13 Tue 16:00>
+  SCHEDULED: <2012-03-21 Wed 10:00>
+** readlog和LogParse的unitest
+** java端的unitest
+* TODO service_name的确定
+  SCHEDULED: <2012-03-21 Wed 11:00> DEADLINE: <2012-03-21 Wed 13:00>
+* TODO errmesg确定
+  SCHEDULED: <2012-03-21 Wed 11:00> DEADLINE: <2012-03-21 Wed 13:00>
